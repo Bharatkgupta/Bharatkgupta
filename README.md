@@ -31,7 +31,9 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown)
 - 🔧 - &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+  ![Microsoft Office](https://img.shields.io/badge/-microsoft_office-000000?style=for-the-badge&logo=microsoft-office&logoColor=orange)
+  ![Windows](https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=windows)
   ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 
 ### ⚙️ &nbsp;GitHub Analytics
