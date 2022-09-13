@@ -2,9 +2,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Electrical Engineering at Indian Institute of Technology Indore.
-- 🌱 &nbsp; Learning more about Software Development and Artificial Intelligence.
+- 🤔 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.
+- 🎓 &nbsp; I'm currently studying Electrical Engineering at Indian Institute of Technology Indore.
+- 🌱 &nbsp; I'm on track for learning more about Software Development and Artificial Intelligence.
+- ✉️ &nbsp;You can shoot me an email at <a href="mailto:bharatgupta18001@gmailcom"><img src="https://img.shields.io/badge/-bharatgupta18001@gmailcom-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> I'll try to respond as soon as I can.
+- 📄 &nbsp;Please have a look at my <a href="g"><img src="https://img.shields.io/badge/-g-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
