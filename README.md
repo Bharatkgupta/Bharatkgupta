@@ -1,9 +1,10 @@
-<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='55' align="left"/><h2>Hey there! I'm Bharat.</h2>
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='65' align="left"/><h1>Hey there! I'm Bharat Kumar Gupta.</h1>
+<h3>🚀 Software developer | ML Enthusiast | Open Source | Competitive Programmer   🚀</h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; I am is passionate about writing code, solving problems, automating stuff, and building software.
-- 🎓 &nbsp; I'm currently studying Electrical Engineering at Indian Institute of Technology Indore.
+- 🤔 &nbsp; I'mm is passionate about writing code, solving problems, automating stuff, and building software.
+- 🎓 &nbsp; I'm currently in final year of Bachelor of Engineering at Indian Institute of Technology Indore.
 - 👨🏽‍💻 &nbsp; I'm on track for learning more about Software Development and Data Science.
 - ✉️ &nbsp;You can shoot me an email at <a href="mailto:bharatgupta18001@gmailcom"><img src="https://img.shields.io/badge/-bharatgupta18001@gmailcom-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> I'll try to respond as soon as I can.
 - 📄 &nbsp;Please have a look at my <a href="g"><img src="https://img.shields.io/badge/-g-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> for more details about me. I'm open to feedback and suggestions!
