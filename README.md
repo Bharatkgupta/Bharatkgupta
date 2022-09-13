@@ -1,12 +1,12 @@
-<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2> Hey there! I'm Bharat.</h2>
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='55' align="left"/><h2>Hey there! I'm Bharat.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+### 👨🏻‍💻 &nbsp;About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Electrical Engineering at Indian Institute of Technology Indore.
 - 🌱 &nbsp; Learning more about Software Development and Artificial Intelligence.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+### 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -27,15 +27,15 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-<br/>
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
 <a href="https://github.com/Bharatkgupta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharatkgupta" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharatkgupta&layout=compact&theme=algolia&show_icons=true" />
 </a>
+<p align="center">
 
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="g"><img alt="Website" src="https://img.shields.io/badge/Website-g-blue?style=flat-square&logo=google-chrome"></a>
