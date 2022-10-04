@@ -6,9 +6,8 @@
 - 🤔 &nbsp; I'mm is passionate about writing code, solving problems, automating stuff, and building software.
 - 🎓 &nbsp; I'm currently in final year of Bachelor of Engineering at Indian Institute of Technology Indore.
 - 👨🏽‍💻 &nbsp; I'm on track for learning more about Software Development and Data Science.
-- ✉️ &nbsp;You can shoot me an email at <a href="mailto:bharatgupta18001@gmailcom"><img src="https://img.shields.io/badge/-bharatgupta18001@gmailcom-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> I'll try to respond as soon as I can.
-- 📄 &nbsp;Please have a look at my <a href="g"><img src="https://img.shields.io/badge/-g-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> for more details about me. I'm open to feedback and suggestions!
-- 💼 &nbsp; I'm currently looking for opportunities in field of Software Development and Data Science.
+- ✉️ &nbsp;You can shoot me an email at <a href="mailto:bharatgupta18001@gmailcom"><img src="https://img.shields.io/badge/-bharatgupta18001@gmailcom-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> I'll try to respond as soon as I can.<!-- 📄 &nbsp;Please have a look at my <a href="g"><img src="https://img.shields.io/badge/-g-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> for more details about me. I'm open to feedback and suggestions!-->
+- 💼 &nbsp; I'm currently looking for full time opportunities in field of Software Development and Data Science.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -47,7 +46,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="g"><img alt="Website" src="https://img.shields.io/badge/Website-g-blue?style=flat-square&logo=google-chrome"></a>
+<!--a href="g"><img alt="Website" src="https://img.shields.io/badge/Website-g-blue?style=flat-square&logo=google-chrome"></a-->
 <a href="https://www.linkedin.com/in/bharatkgupta/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bharat%20Gupta-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:bharatgupta18001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bharatgupta18001@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
