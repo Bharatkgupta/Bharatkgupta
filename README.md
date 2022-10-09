@@ -1,5 +1,5 @@
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='65' align="left"/><h1>Hey there! I'm Bharat Kumar Gupta.</h1>
-<h3>🚀 Software developer | ML Enthusiast | Open Source | Competitive Programmer   🚀</h3>
+<h3>🚀 Software developer | ML Enthusiast 🚀</h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -21,7 +21,6 @@
   ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap)
-  ![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django)
   ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
 - 🛢 - &nbsp;
   ![SQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql)
