@@ -82,7 +82,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Bharatkgupta&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" /> -->
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Bharatkgupta&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bharatkgupta&layout=compact&hide_border=true&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=10&card_width=320" />
 </div>
 
@@ -93,4 +93,4 @@
   <a href="mailto:bharatkgupta2000@gmail.com"><img alt="LinkedIn" align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-<!-- [![Profile Views](https://visitcount.itsvg.in/api?id=Bharatkgupta&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in) -->
+[![Profile Views](https://visitcount.itsvg.in/api?id=Bharatkgupta&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
