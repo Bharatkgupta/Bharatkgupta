@@ -93,4 +93,4 @@
   <a href="mailto:bharatkgupta2000@gmail.com"><img alt="LinkedIn" align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Bharatkgupta&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+### ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=Bharatkgupta&color=blue&style=for-the-badge)
